@@ -1,0 +1,1 @@
+"0","plot(mod2$residuals ~ mod2$fitted.values, xlab = 'Valores ajustados', ylab = 'Residuos del modelo')"

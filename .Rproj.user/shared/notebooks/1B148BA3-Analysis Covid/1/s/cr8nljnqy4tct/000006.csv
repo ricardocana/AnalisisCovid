@@ -1,0 +1,7 @@
+"0","world <- ne_countries(scale = ""medium"", returnclass = ""sf"")"
+"0",""
+"0","datos$Pais_Region = factor(datos$Pais_Region, levels = c(levels(datos$Pais_Region), ""United States""))"
+"0","datos[datos$Pais_Region==""US"",]$Pais_Region = ""United States"""
+"0",""
+"0","ggplot(world) + geom_sf(color = 'black', aes(fill = mapcolor13)) + xlab('Longitud') + ylab('Latitud') +"
+"0","  ggtitle('Mapa del Mundo', subtitle = 'COVID19')"

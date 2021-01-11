@@ -1,0 +1,6 @@
+"0","covid19.limpio = c()"
+"0","for (i in 1:length(paises)){"
+"0","  if(length(which(paises[i] %in% pop_data$country))>0){"
+"0","    covid19.limpio = rbind(covid19.limpio, covid19[covid19$Country.Region==paises[i],])"
+"0","  }"
+"0","}"

@@ -1,0 +1,1 @@
+{"frames":[{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"str(datos)","line_number":0}],"message":"Error in str(datos) : object 'datos' not found\n"}

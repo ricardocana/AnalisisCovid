@@ -1,0 +1,6 @@
+"0","datos_spain %<>%"
+"0","  mutate(Nuevos_Casos_Confirmados = Casos_Confirmados - lag(Casos_Confirmados, n = 1),"
+"0","         Nuevos_Casos_Muertos = Casos_Muertos - lag(Casos_Muertos, n = 1),"
+"0","         Nuevos_Casos_Recuperados = Casos_Recuperados - lag(Casos_Recuperados, n = 1))"
+"0",""
+"0","datos_spain %>% kable()"

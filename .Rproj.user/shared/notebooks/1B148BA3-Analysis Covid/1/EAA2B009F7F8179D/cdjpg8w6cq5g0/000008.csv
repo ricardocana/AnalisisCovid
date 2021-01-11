@@ -1,0 +1,6 @@
+"0",""
+"0",""
+"0","datos %>%"
+"0","  filter(Casos_Enfermos < 0) %>%"
+"0","  arrange(Provincia_Estado, Fecha) %>%"
+"0","  kable()"

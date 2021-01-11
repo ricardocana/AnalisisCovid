@@ -1,0 +1,4 @@
+"0","datos_europa %>%"
+"0","  filter(between(Fecha, dmy('2-3-2020'), dmy('7-3-2020')),"
+"0","         dist_potsdam < 4) %>%"
+"0","  kable()"

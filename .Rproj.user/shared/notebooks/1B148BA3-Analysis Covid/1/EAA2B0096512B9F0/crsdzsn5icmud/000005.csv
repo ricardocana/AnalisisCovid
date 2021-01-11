@@ -1,0 +1,4 @@
+"0","datos_spain = datos %>% filter(Pais_Region=='Spain') %>%"
+"0","  select(Fecha, starts_with('Casos'))"
+"0",""
+"0","plot(Casos_Confirmados ~ Fecha, data = datos_por_fecha , main = 'Casos Confirmados en España',type = 's', col = 'blue', lwd = 2)"

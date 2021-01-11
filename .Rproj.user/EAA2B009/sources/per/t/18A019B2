@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587232481116.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3162321084",
+    "id" : "18A019B2",
+    "lastKnownWriteTime" : 1589646056,
+    "last_content_update" : 1589646057079,
+    "path" : "C:/Users/ricardo.ocana/Desktop/COVIDricardo/Analysis Covid.Rmd",
+    "project_path" : "Analysis Covid.Rmd",
+    "properties" : {
+        "cursorPosition" : "689,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "680",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

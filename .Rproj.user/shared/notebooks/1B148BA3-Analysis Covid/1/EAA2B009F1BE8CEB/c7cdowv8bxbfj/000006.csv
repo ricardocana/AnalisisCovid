@@ -1,0 +1,1 @@
+"0","barplot(as.matrix(t(datos_spain[, 3:5])), names =datos_spain$Fecha, col = c('red','green','yellow'), main = 'Estudio de casos por tipo en España', xlab='Fecha', ylab = 'Numero de personas')"

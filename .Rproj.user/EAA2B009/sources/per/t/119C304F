@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587314142384.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "119C304F",
+    "lastKnownWriteTime" : 15481574697009251,
+    "last_content_update" : 1587314142384,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "188A4D24",
+        "caption" : "datos_europa",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=datos_europa&cache_key=188A4D24",
+        "displayedObservations" : "3915",
+        "environment" : "",
+        "expression" : "datos_europa",
+        "object" : "datos_europa",
+        "preview" : "0",
+        "totalObservations" : "3915",
+        "variables" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

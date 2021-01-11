@@ -1,0 +1,3 @@
+"0","pd <- import('pandas')"
+"0","datos <- pd$read_csv('covid_19_clean_complete.csv')"
+"0","kable(head(datos,10))"

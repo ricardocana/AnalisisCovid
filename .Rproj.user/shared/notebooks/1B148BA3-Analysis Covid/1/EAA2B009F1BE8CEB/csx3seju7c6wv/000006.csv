@@ -1,0 +1,3 @@
+"0","datos %<>%"
+"0","  mutate(Casos_Enfermos = Casos_Confirmados - Casos_Muertos - Casos_Recuperados)"
+"0","datos %>% filter(Casos_Confirmados > 1000) %>% head() %>% kable()"

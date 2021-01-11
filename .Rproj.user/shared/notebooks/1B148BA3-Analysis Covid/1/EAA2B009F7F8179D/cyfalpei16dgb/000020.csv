@@ -1,0 +1,4 @@
+"0","table(datos_europa$Pais_Region) %>%"
+"0","  as.data.frame() %>%"
+"0","  filter(Freq > 0) %>%"
+"0","  kable()"

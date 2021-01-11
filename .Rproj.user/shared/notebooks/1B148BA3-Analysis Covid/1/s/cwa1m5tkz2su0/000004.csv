@@ -1,0 +1,5 @@
+"0","datos %>%"
+"0","  filter(Provincia_Estado == 'Hainan', Casos_Enfermos > 0) %>%"
+"0","  mutate(Casos_Recuperados = Casos_Recuperados + Casos_Enfermos,"
+"0","         Casos_Enfermos = 0) %>%"
+"0","  kable()"

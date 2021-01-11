@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589582896035.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "594268C7",
+    "lastKnownWriteTime" : 7721555093294834281,
+    "last_content_update" : 1589582896035,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8F72B20B",
+        "caption" : "covid19",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=covid19&cache_key=8F72B20B",
+        "displayedObservations" : 26400,
+        "environment" : "",
+        "expression" : "covid19",
+        "object" : "covid19",
+        "preview" : 0,
+        "totalObservations" : 26400,
+        "variables" : 8
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

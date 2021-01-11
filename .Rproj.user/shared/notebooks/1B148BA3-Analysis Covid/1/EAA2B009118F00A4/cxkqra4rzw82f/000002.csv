@@ -1,0 +1,1 @@
+"0","datos_por_fecha$Enfermos = datos_por_fecha$Casos_Confirmados - datos_por_fecha$Casos_Muertos - datos_por_fecha$Casos_Recuperados"

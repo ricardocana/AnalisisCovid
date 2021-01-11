@@ -1,0 +1,12 @@
+"0","world %>%
+  inner_join(datos, by = c('name' = 'Pais_Region')) %>%
+  filter(Fecha == dmy('15-03-2020')) %>%
+  ggplot() +
+  geom_sf(color = 'black', aes(fill = Casos_Confirmados)) +
+  xlab('Longitud') +
+  coord_sf(crs='+proj=laea + lat_0=50 + lon_0=10')+
+  scale_fill_viridis_c(option = 'plasma', trans = 'sqrt') +
+  ylab('Latitud') +
+  ggtitle('Mapa del Mundo', subtitle = 'COVID19')
+"
+"2","Column `name`/`Pais_Region` joining character vector and factor, coercing into character vector"

@@ -1,0 +1,1 @@
+"0","plot(datos_spain$Dias, datos_spain$Casos_Confirmados)"

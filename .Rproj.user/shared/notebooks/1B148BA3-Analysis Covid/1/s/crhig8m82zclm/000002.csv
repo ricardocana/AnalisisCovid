@@ -1,0 +1,4 @@
+"0","confirmados.por.pais = aggregate(covid19.limpio$Confirmed[covid19.limpio$Date==fecha] ~ "
+"0","                    covid19.limpio$Country.Region[covid19.limpio$Date==fecha],FUN=sum)"
+"0",""
+"0","names(confirmados.por.pais)=c(""Pais"",""Confirmados"")"

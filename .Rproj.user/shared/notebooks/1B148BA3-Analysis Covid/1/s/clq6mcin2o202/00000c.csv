@@ -1,0 +1,5 @@
+"0","Primer_Contagio = datos %>% group_by(Pais_Region) %>%"
+"0","  filter(Casos_Confirmados > 0) %>%"
+"0","  summarise(Primer_Contagio = min(Fecha)-1)"
+"2","Error: Columns `9`, `10`, `11` cannot have NA as name
+"

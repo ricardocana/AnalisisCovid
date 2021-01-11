@@ -1,0 +1,1 @@
+"0","lines(Casos_Muertos ~ Fecha, data = datos_por_fecha, col = 'red')"

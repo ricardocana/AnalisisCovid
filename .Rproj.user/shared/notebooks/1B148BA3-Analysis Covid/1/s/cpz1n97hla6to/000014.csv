@@ -1,0 +1,4 @@
+"0","lines(Nuevos_Casos_Muertos~Fecha,"
+"0","      data = datos_spain,"
+"0","      type = 'l',"
+"0","      col = 'red')"

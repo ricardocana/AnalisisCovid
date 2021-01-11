@@ -1,0 +1,104 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0","library(reticulate)"
+"0","library(knitr)"
+"0","#library(kableExtra)"
+"0","library(tinytex)"
+"0","library(dplyr)"
+"0","library(tidyverse) # %>%"
+"0","library(magrittr) # %<>%"
+"0","library(lubridate)"
+"0","library(rnaturalearth)"
+"0","library(car)"
+"0","library(plotly)"
+"0","library(xts)"
+"0","library(dygraphs)"
+"0","py_install('pandas')"
+"1","Collecting package metadata (current_repodata.json): ...working... done
+"
+"1","Solving environment: ...working... done
+"
+"1","
+"
+"1","## Package Plan ##
+"
+"1","
+"
+"1","  environment location: C:\Users\ricardo.ocana\AppData\Local\r-miniconda\envs\r-reticulate
+"
+"1","
+"
+"1","  added / updated specs:
+"
+"1","    - python
+"
+"1","
+"
+"1","
+"
+"1","The following packages will be SUPERSEDED by a higher-priority channel:
+"
+"1","
+"
+"1","  certifi            conda-forge::certifi-2020.4.5.1-py36h~ --> pkgs/main::certifi-2020.4.5.1-py36_0
+"
+"1","  python             conda-forge::python-3.6.10-he025d50_1~ --> pkgs/main::python-3.6.10-h9f7ef89_1
+"
+"1","
+"
+"1","
+"
+"1","Preparing transaction: ...working... done
+"
+"1","Verifying transaction: ...working... done
+"
+"1","Executing transaction: ...working... done
+"
+"1","Collecting package metadata (current_repodata.json): ...working... done
+"
+"1","Solving environment: ...working... done
+"
+"1","
+"
+"1","## Package Plan ##
+"
+"1","
+"
+"1","  environment location: C:\Users\ricardo.ocana\AppData\Local\r-miniconda\envs\r-reticulate
+"
+"1","
+"
+"1","  added / updated specs:
+"
+"1","    - pandas
+"
+"1","    - python
+"
+"1","
+"
+"1","
+"
+"1","The following packages will be UPDATED:
+"
+"1","
+"
+"1","  python                pkgs/main::python-3.6.10-h9f7ef89_1 --> conda-forge::python-3.6.10-he025d50_1009_cpython
+"
+"1","
+"
+"1","The following packages will be SUPERSEDED by a higher-priority channel:
+"
+"1","
+"
+"1","  certifi              pkgs/main::certifi-2020.4.5.1-py36_0 --> conda-forge::certifi-2020.4.5.1-py36h9f0ad1d_0
+"
+"1","
+"
+"1","
+"
+"1","Preparing transaction: ...working... done
+"
+"1","Verifying transaction: ...working... done
+"
+"1","Executing transaction: ...working... done
+"
+"0","use_miniconda()"

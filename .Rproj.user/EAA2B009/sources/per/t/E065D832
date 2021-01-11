@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589569980132.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E065D832",
+    "lastKnownWriteTime" : 33777465363660899,
+    "last_content_update" : 1589569980132,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "29068448",
+        "caption" : "covid19.limpio",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=covid19.limpio&cache_key=29068448",
+        "displayedObservations" : "23700",
+        "environment" : "",
+        "expression" : "covid19.limpio",
+        "object" : "covid19.limpio",
+        "preview" : "0",
+        "totalObservations" : "23700",
+        "variables" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

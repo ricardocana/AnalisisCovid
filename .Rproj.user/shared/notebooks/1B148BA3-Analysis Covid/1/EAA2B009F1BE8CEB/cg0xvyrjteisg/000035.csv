@@ -1,0 +1,6 @@
+"0","Primer_Contagio = datos %>% group_by(Pais_Region) %>%"
+"0","  filter(Casos_Confirmados > 0) %>%"
+"0","  summarise(Primer_Contagio = min(Fecha)-1)"
+"0","  "
+"0",""
+"0","Primer_Contagio"

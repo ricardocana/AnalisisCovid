@@ -1,0 +1,5 @@
+"0","datos_por_fecha = aggregate("
+"0","  cbind(Casos_Confirmados, Casos_Muertos, Casos_Recuperados) ~ Fecha,"
+"0","  data = datos,"
+"0","  FUN = sum"
+"0",")"

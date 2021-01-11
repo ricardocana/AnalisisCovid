@@ -1,0 +1,2 @@
+"0",""
+"0","legend('topleft', c('Confirmados', 'Muertos', 'Recuperados'), col = c('blue', 'red', 'green'), lwd = 2, pch = 1)"

@@ -1,0 +1,9 @@
+"0","datos_por_fecha_ts = xts(x = data.frame(Real = c(datos_spain$Casos_Confirmados,"
+"0","                                        Mod_Lin = pred1,"
+"0","                                        #Mod_Exp = pred2, "
+"0","                                        Mod_Pot = pred3, "
+"0","                                        Mod_Mixt = pred4),"
+"0","                         order.by = dates))"
+"2","Error in data.frame(Real = c(datos_spain$Casos_Confirmados, Mod_Lin = pred1,  : 
+  arguments imply differing number of rows: 397, 99
+"

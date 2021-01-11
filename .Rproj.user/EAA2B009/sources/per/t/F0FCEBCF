@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587921004113.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F0FCEBCF",
+    "lastKnownWriteTime" : 8104338726696264226,
+    "last_content_update" : 1587921004113,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "62681EF9",
+        "caption" : "datos_spain",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=datos_spain&cache_key=62681EF9",
+        "displayedObservations" : "93",
+        "environment" : "",
+        "expression" : "datos_spain",
+        "object" : "datos_spain",
+        "preview" : "0",
+        "totalObservations" : "93",
+        "variables" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

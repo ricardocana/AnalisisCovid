@@ -1,0 +1,8 @@
+"0","datos %>%"
+"0","  filter(Fecha == ymd('2020-04-20'),"
+"0","         Casos_Confirmados > 1000) %>%"
+"0","  mutate(Prop_Muertos = Casos_Muertos/Casos_Confirmados,"
+"0","         Ranking = dense_rank(desc(Prop_Muertos))) %>%"
+"0","  arrange(Ranking) %>%"
+"0","  head(30) %>%"
+"0","  kable()"

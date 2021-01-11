@@ -1,0 +1,3 @@
+"0","
+
+#datos = pd.read_csv('covid_19_clean_complete.csv')"

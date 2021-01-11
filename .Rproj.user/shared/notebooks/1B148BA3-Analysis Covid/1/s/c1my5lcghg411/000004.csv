@@ -1,0 +1,3 @@
+"0","library(wbstats)"
+"0",""
+"0","pop_data <- wb(indicator = 'SP.POP.TOTL', startdate = 2018, enddate = 2019)"

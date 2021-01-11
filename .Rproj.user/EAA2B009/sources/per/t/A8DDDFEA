@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587921594669.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A8DDDFEA",
+    "lastKnownWriteTime" : 8026363914660965410,
+    "last_content_update" : 1587921594669,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6C4A3895",
+        "caption" : "traspuestos",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=traspuestos&cache_key=6C4A3895",
+        "displayedObservations" : 5,
+        "environment" : "",
+        "expression" : "traspuestos",
+        "object" : "traspuestos",
+        "preview" : 0,
+        "totalObservations" : 5,
+        "variables" : 93
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

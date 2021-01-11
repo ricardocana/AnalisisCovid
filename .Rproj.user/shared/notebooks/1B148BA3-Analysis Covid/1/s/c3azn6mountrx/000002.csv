@@ -1,0 +1,3 @@
+"0","paises <- unique(covid19.limpio$Country.Region)"
+"0","sum.total.habitantes <- sum(pop_data[pop_data$country %in% paises,]$value)"
+"0","numero.total.infectados <- sum(confirmados.por.pais$Confirmados)"

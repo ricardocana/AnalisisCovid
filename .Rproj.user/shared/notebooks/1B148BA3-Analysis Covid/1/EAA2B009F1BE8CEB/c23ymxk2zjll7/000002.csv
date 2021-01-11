@@ -1,0 +1,7 @@
+"0","dist_potsdam = apply(cbind(datos_europa$Latitud, datos_europa$Longitud),"
+"0","                     MARGIN = 1,"
+"0","                     FUN = distancia_grados_potsdam)"
+"0",""
+"0",""
+"0","datos_europa %<>%"
+"0","  mutate(dist_potsdam = dist_potsdam)"

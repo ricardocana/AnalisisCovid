@@ -1,0 +1,1 @@
+"0","plot(Casos_Confirmados ~ Fecha , data = datos_por_fecha, col = 'blue', type = 'l', main = 'Casos documentados por día', xlab = 'Fecha', ylab = 'Nº de personas', log = 'y')"

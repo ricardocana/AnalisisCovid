@@ -1,0 +1,2 @@
+"0","datos <- read.csv('covid_19_clean_complete.csv', stringsAsFactors = F)"
+"0","datos %>% head(10) %>% kable()"

@@ -1,0 +1,6 @@
+"0","plot(Nuevos_Casos_Confirmados~Fecha,"
+"0","     data = datos_spain, type = 'l',"
+"0","     xlab = 'Fecha',"
+"0","     ylab = 'Nuevos Casos',"
+"0","     main = 'Nuevos registros en España',"
+"0","     col = 'blue')"
